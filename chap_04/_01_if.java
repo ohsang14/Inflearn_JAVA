@@ -27,6 +27,6 @@ public class _01_if {
             System.out.println("아이스 아메리카노 (디카페인) +1");
         }
         System.out.println("커피 주문 완료 #3");
-
+        System.out.println("good job");
     }
 }
